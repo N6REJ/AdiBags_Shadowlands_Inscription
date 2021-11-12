@@ -38,9 +38,9 @@ db.Filters = {
         },
     },
     ["Vendor_Reagents"] = {
-        uiName = "Shadowlands Vendor Reagents",
-        uiDesc = "Reagents from vendors used in Shadowlands",
-        title = "Vendor Reagents",
+        uiName = "Shadowlands Inscription Reagents",
+        uiDesc = "Inscription reagents from vendors used in Shadowlands",
+        title = "Inscription Reagents",
         items = {
             -- ID    = true,    --Item name
             [175886] = true, -- Dark Parchment
@@ -55,10 +55,12 @@ db.Filters = {
         title = "Crafted Reagents",
         items = {
             -- ID    = true,    --Item name
+            [173384] = true, -- Crafter's Mark of the Chained Isle
             [173383] = true, -- Crafter's Mark III
             [173382] = true, -- Crafter's Mark II
             [173381] = true, -- Crafter's Mark I
             [183942] = true, -- Novice Mark
+            [185960] = true, -- Vestige of Origins
         },
     },
 }
