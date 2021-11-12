@@ -1,4 +1,4 @@
-package-as: AdiBags_Shadowlands_Herbs
+package-as: AdiBags_Shadowlands_Inscription
 
 ignore:
     - README.md
