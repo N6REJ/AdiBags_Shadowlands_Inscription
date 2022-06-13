@@ -1,9 +1,10 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: AdiBags - Shadowlands Inscription
 ## Version: @project-version@
 ## Author: Bearesquishy
 ## X-License: MIT
 ## X-Curse-Project-ID: 546354
+## X-Wago-ID: anKW84GE
 ## DefaultState: enabled
 ## Dependencies: AdiBags
 
